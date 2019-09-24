@@ -1,6 +1,6 @@
 ### About this policy
 
-This Privacy Policy is adapted from the [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) licensed privacy policy of [Automattic privacy policy](https://github.com/Automattic/legalmattic) — the company that runs the open source blog platform WordPress — as they have a well-earned reputation for looking out for users but also the resources to cover the legal bases appropriately.
+This Privacy Policy is adapted from the [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) licensed [privacy policy of Automattic](https://github.com/Automattic/legalmattic) — the company that runs the open source blog platform WordPress — as they have a well-earned reputation for looking out for users but also the resources to cover the legal bases appropriately.
 
 ### Information We Collect
 
