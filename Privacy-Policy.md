@@ -1,6 +1,6 @@
 ### About this policy
 
-This Privacy Policy is adapted from the (https://github.com/Automattic/legalmattic) policy, available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license.
+This Privacy Policy is adapted from the [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) licensed privacy policy of [Automattic privacy policy](https://github.com/Automattic/legalmattic) — the company that runs the open source blog platform WordPress — as they have a well-earned reputation for looking out for users but also the resources to cover the legal bases appropriately.
 
 ### Information We Collect
 
@@ -39,7 +39,7 @@ We use information about you as mentioned above and for the purposes listed belo
 *   To provide our Services–for example, to set up and maintain your account, host your course page and track the contributions of your students;
 *   To further develop and improve our Services–for example by adding new features that we think our users will enjoy or will help them to create and manage their courses more efficiently;
 *   To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
-*   To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of Automattic and others, which may result in us declining a transaction or the use of our Services;
+*   To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of Wiki Education and others, which may result in us declining a transaction or the use of our Services;
 *   To communicate with you, for example through an email, about programs offered by Wiki Education and others we think will be of interest to you, solicit your feedback, or keep you up to date on Wiki Education and our programs (which you can unsubscribe from at any time); and
 *   To personalize your experience using our Services, target our messages to groups of our users (for example, those who study a particular topic area, or have worked with us for a certain length of time), and serve relevant content.
 
