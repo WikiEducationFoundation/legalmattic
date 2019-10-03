@@ -2,6 +2,10 @@
 
 This Privacy Policy is adapted from the [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) licensed [privacy policy of Automattic](https://github.com/Automattic/legalmattic) — the company that runs the open source blog platform WordPress — as they have a well-earned reputation for looking out for users but also the resources to cover the legal bases appropriately.
 
+Throughout this Privacy Policy we’ll refer to our websites, mobile applications, and other products and services collectively as “Services.”
+
+You can [contact us](mailto:contact@wikiedu.org) if you have questions.
+
 ### Information We Collect
 
 We only collect information about you if we have a reason to do so–for example, to provide our Services, to communicate with you, or to make our Services better. We collect information in three ways: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect.
@@ -12,7 +16,7 @@ It’s probably no surprise that we collect information that you provide to us. 
 
 *   **Basic Account Information:** We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a Wiki Education Dashboard account to provide an email address along with a name and a Wikipedia username–and that’s it. You may provide us with more information -- like a bio and other information you want to share -- but we don’t require that information to create an account.
 *   **Public Profile Information:** If you have an account with us, we collect the information that you provide for your public profile. For example, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or bio. Your public profile information is just that–public–so please keep that in mind when deciding what information you would like to include.
-*   **Transaction and Billing Information:** If you buy something from us–a seat in a course, for example–you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.
+*   **Transaction and Billing Information:** If you buy something from us – a seat in a course, for example – you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information. This information is typically retained by the third-party payment processing service.
 *   **Content Information:** Depending on the Services you use, you may also provide us with information about you in draft and published content (such as a course description and timeline). For example, if you have a course page that includes biographic information about you, we will have that information, and so will anyone with access to the Internet.
 *   **Communications with Us (Hi There!):** You may also provide us information when you respond to surveys, communicate with our staff about a support question, post a question about your site in our public forums, or sign up for a newsletter. When you communicate with us via form, email, phone, or otherwise, we may store a copy of our communications (including any call recordings as permitted by applicable law). 
 
@@ -28,7 +32,7 @@ We also collect some information automatically:
 
 #### _Information We Collect from Other Sources_
 
-We may also get information about you from other sources. For example, when you create or log into your Dashboard account via your Wikipedia, we will receive information from that service—including permission to make edits on your behalf—via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.
+We may also get information about you from other sources. For example, when you create or log into your Dashboard account via your Wikipedia, we will receive information from that service, including permission to make edits on your behalf, via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.
 
 ### How and Why We Use Information
 
@@ -115,6 +119,6 @@ If you’d like to use third party services to communicate with us, such as Slac
 
 ### Privacy Policy Changes
 
-Wiki Education may change its Privacy Policy from time to time — most likely to keep up with changes to the Automattic Privacy Policy from which it is derived. Wiki Education encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
+Wiki Education may change its Privacy Policy from time to time, most likely to keep up with changes to the Automattic Privacy Policy from which it is derived. Wiki Education encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
 
 * 2019-10-08 — Replaced previous Privacy Policy, based on an earlier version of the Automattic policy, with one based on the latest, post-GDPR version.
