@@ -32,7 +32,7 @@ We also collect some information automatically:
 
 #### _Information We Collect from Other Sources_
 
-We may also get information about you from other sources. For example, when you create or log into your Dashboard account via your Wikipedia, we will receive information from that service, including permission to make edits on your behalf, via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.
+We may also get information about you from other sources. For example, when you create or log into your Dashboard account via your Wikipedia account, we will receive information from that service, including permission to make edits on your behalf, via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.
 
 ### How and Why We Use Information
 
@@ -64,7 +64,7 @@ We do not sell our users’ private personal information. We share information a
 *   **Business Transfers:** In connection with any merger, sale of organization assets, or acquisition of all or a portion of our organization by another organization, or in the unlikely event that Wiki Education closes down, user information could be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
 *   **With Your Consent:** We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so, such as the social media services that you connect to your site through our Publicize feature.
 *   **Aggregated or De-Identified Information:** We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
-*   **Published Support Requests:** And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
+*   **Published Support Requests:** If you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
 
 #### _Information Shared Publicly_
 
@@ -119,6 +119,6 @@ If you’d like to use third party services to communicate with us, such as Slac
 
 ### Privacy Policy Changes
 
-Wiki Education may change its Privacy Policy from time to time, most likely to keep up with changes to the Automattic Privacy Policy from which it is derived. Wiki Education encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
+Wiki Education may change its Privacy Policy from time to time, most likely to keep up with changes to the Automattic Privacy Policy from which it is derived. Wiki Education encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and in some cases we may provide additional notice such as sending you a notification through email or your dashboard. Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
 
 * 2019-10-08 — Replaced previous Privacy Policy, based on an earlier version of the Automattic policy, with one based on the latest, post-GDPR version.
