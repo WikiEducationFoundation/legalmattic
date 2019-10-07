@@ -76,7 +76,7 @@ We generally discard information about you when we no longer need the informatio
 
 ### Security
 
-While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so, such as monitoring our Services for potential vulnerabilities and attacks. To enhance the security of your account, we encourage you to enable our advanced security settings, like Two Step Authentication of your Wikipedia account.
+While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so, such as monitoring our Services for potential vulnerabilities and attacks.
 
 ### Choices
 
